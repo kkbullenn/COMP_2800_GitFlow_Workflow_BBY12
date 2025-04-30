@@ -6,6 +6,9 @@ h1 {
 }
 .content {
     margin: 0 auto;
-    width: 80%;
+    width: 800px;
     text-align: center;
+}
+.clickale {
+    cursor:hand;
 }
